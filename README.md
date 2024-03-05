@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blessedce
 - 👀 I’m interested in learning different programming languages and being part of a team
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently studying Software Engineering
 - 💞️ I’m looking to collaborate on various projects and apps
 - 📫 How to reach me on my personal email:blessedezeala@gmail.com
 - 😄 Pronouns: she/her
